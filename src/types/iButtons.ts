@@ -1,6 +1,7 @@
 import { ReactNode } from "react";
 
 export interface ButtonProps {
-  children: ReactNode;
+  children?: React.ReactNode;
   type?: "button" | "submit" | "reset" | undefined;
+  onCLick?: () => void;
 }

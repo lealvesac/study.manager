@@ -1,3 +1,24 @@
+# Study Manager
+
+Study Manager é um aplicativo web para gerenciar suas tarefas e ajudar na organização dos estudos.
+
+## Funcionalidades
+
+- Criação, edição e exclusão de tarefas
+- Marcação de tarefas como concluídas
+- Categorização de tarefas por disciplina
+- Exibição das tarefas pendentes e concluídas
+- Interface intuitiva e responsiva
+
+## Tecnologias utilizadas
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- HTML5
+- CSS3
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

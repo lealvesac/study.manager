@@ -1,7 +1,7 @@
 export default interface iTask {
-  matter: string,
-  time: string,
-  select: boolean,
-  complete: boolean,
-  id: string
+  matter: string;
+  time: string;
+  selected: boolean;
+  completed: boolean;
+  id: string;
 }
